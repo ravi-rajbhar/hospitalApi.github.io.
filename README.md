@@ -1,1 +1,0 @@
-# hospitalApi.github.io.
